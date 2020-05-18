@@ -1,0 +1,5 @@
+Host ubuntu01
+  Hostname 172.17.0.2
+  User root
+  PubKeyAuthentication yes
+  IdentityFile ~/.ssh/id_rsa
